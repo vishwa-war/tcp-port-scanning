@@ -236,11 +236,6 @@ Future enhancements may include:
 * Logging support
 * Cross-platform ping handling
 
-## Sample Output
-
-<img width="1497" height="755" alt="Screenshot 2026-07-31 191911" src="https://github.com/user-attachments/assets/ef54e392-b286-4e2b-aea0-4dff6b4b3c2c" />
-
-
 ## Security Notice
 
 This tool is intended for:
