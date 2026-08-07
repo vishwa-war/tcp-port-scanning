@@ -36,7 +36,6 @@ tcp-port-scanner/
 │
 ├── scanner.py
 ├── README.md
-└── requirements.txt (optional)
 ```
 
 ## How It Works
